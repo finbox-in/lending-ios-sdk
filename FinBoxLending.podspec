@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
   spec.version      = "0.3.3"
   spec.summary      = "FinBoxLending IOS SDK to enable Lending journey for IOS devices"
 
-  spec.description  = FinBox Lending allows users to submit their bank account statements, kyc details, sign aggrements and pay EMIs in your app enabling the user to complete the end to end lending journey. This SDK will help you integrate Lending Flow in your application flow.
+  spec.description  = "FinBox Lending allows users to submit their bank account statements, kyc details, sign aggrements and pay EMIs in your app enabling the user to complete the end to end lending journey. This SDK will help you integrate Lending Flow in your application flow."
 
   spec.homepage     = "https://github.com/finbox-in/lending-ios-sdk"
 
