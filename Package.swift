@@ -15,7 +15,7 @@ let package = Package(
         .binaryTarget(
             name: "FinBoxLending",
             url: "https://github.com/finbox-in/lending-ios-sdk/releases/download/v0.3.3/FinBoxLending-0.3.3.xcframework.zip",
-            checksum: "311b62a6d09f6f33ff77aeac006c48852ae5128b056350eb765b4ba9045c3671"
+            checksum: "83e89268046df035f15bdc4bf6e86baec6836b5e63ff0dbeeb483ab248b9e104"
         ),
     ]
 )
